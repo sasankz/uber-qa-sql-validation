@@ -1,5 +1,8 @@
 ## Uber Ride Marketplace QA Data Validation (SQL)
 
+## Project Goal
+
+This project demonstrates how SQL can be used during QA testing to validate backend data integrity and verify business rules in a ride marketplace system.
 This project simulates backend data validation for a ride-sharing system similar to Uber.
 
 The goal is to validate business rules using SQL queries and detect potential defects in ride marketplace data.
